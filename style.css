@@ -1,0 +1,17 @@
+/* fonts */
+
+
+/* site colour palette */
+:root {
+    --color: 
+}
+
+
+/* generic style reset */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* add your own style rules here */
